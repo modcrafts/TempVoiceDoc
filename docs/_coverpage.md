@@ -1,9 +1,9 @@
 
 
+ ![logo](media/logo.png ':size=50') 
+# 语音 <a class="gradient-2">Temp</a>
 
-# ![logo](media/logo.png ':size=75') 语音 <a class="gradient-2">Temp</a>
-
-> <a class="gradient-1"><b>临时</b>取代永久</a>
+ > <a class="gradient-1"><b>临时</b>取代永久</a>
 
 - **语音 Temp** 通过为用户创建临时的语音频道, 使你的 KOOK 服务器焕然一新
 - 想要有足够多的频道容纳用户的各种需求? 您不必手动创建了

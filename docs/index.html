@@ -13,6 +13,9 @@
 
    <!-- Custom Styles -->
    <style>
+      .cover::after {
+        border-style: none!important;
+      }
      :root {
         --theme-color   : rgb(67, 103, 211)
      }
@@ -23,6 +26,7 @@
         color: transparent !important;
       }
       .gradient-2{
+        font-weight: bolder;
         font-size: 100px;
         background: linear-gradient(to right, #ECC94B, #DD6B20);
         -webkit-background-clip: text; 
@@ -32,7 +36,7 @@
       ============================================================================= */
      :root {
         --base-background-color                            :#18191c;
-        --cover-color                                      : ;
+        --cover-color                                      : #CBD5E0;
         --cover-margin                                     : 0 auto;
         --cover-max-width                                  : 40em;
         --cover-text-align                                 : center;
@@ -90,10 +94,10 @@
 
         /* Heading */
         --cover-heading-color                              : var(--theme-color);
-        --cover-heading-font-size                          : 100px;
+        --cover-heading-font-size                          : 50px;
         --cover-heading-font-size-min                      : ;
         --cover-heading-font-size-max                      : ;
-        --cover-heading-font-weight                        : bolder;
+        --cover-heading-font-weight                        : normal;
         --cover-heading-background                         : linear-gradient(to right, #ED64A6, #805AD5);
 
         /* Links */
