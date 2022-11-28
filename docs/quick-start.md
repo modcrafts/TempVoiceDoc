@@ -2,7 +2,7 @@
 
 ## 邀请机器人
 
-[`点击此处`](https://www.kookapp.cn/app/oauth2/authorize?id=13851&permissions=51230776&client_id=Yc_D002vsARZTTzP&redirect_uri=&scope=bot) 
+[`点击此处`](https://www.kookapp.cn/app/oauth2/authorize?id=13851&permissions=51230777&client_id=Yc_D002vsARZTTzP&redirect_uri=&scope=bot) 
 邀请机器人加入频道即可  
 
 ## 配置
