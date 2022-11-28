@@ -1,7 +1,7 @@
 
 
  ![logo](media/logo.png ':size=50') 
-# 语音 <a class="gradient-2">Temp</a>
+# 语音 <a class="gradient-2">Temporary</a>
 
  > <a class="gradient-1"><b>临时</b>取代永久</a>
 
