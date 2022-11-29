@@ -1,7 +1,7 @@
 
 
  ![logo](media/logo.png ':size=50') 
-# 语音 <a class="gradient-2">Temporary</a>
+# <a>语音</a> <a class="gradient-2">Temporary</a>
 
  > <a class="gradient-1"><b>临时</b>取代永久</a>
 
@@ -11,5 +11,5 @@
 
 [快速开始](/quick-start)
 [邀请至服务器](https://www.kookapp.cn/app/oauth2/authorize?id=13851&permissions=51231800&client_id=Yc_D002vsARZTTzP&redirect_uri=&scope=bot)
-[控制面板](/)
+[控制面板](/ ':disabled')
 ![演示](media/demo.gif)
