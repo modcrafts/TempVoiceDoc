@@ -1,7 +1,7 @@
 
 
  ![logo](media/logo_2.jpg ':size=50 :id=logo') 
-# <a>语音</a> <a class="gradient-2">Temporary</a>
+# <a>Voice</a> <a class="gradient-2">Temporary</a>
 
  > <a class="gradient-1"><b>语音频道</b>新范式</a>
 
