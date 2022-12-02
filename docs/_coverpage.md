@@ -11,5 +11,5 @@
 
 [快速开始](/quick-start)
 [邀请至服务器](https://www.kookapp.cn/app/oauth2/authorize?id=13851&permissions=51231800&client_id=Yc_D002vsARZTTzP&redirect_uri=&scope=bot)
-[控制面板](/ ':disabled')
+[管理面板](https://tvdash.ncgs.top)
 ![演示](media/demo.gif)
