@@ -4,6 +4,7 @@
 
 [`点击此处`](https://www.kookapp.cn/app/oauth2/authorize?id=13851&permissions=51231800&client_id=Yc_D002vsARZTTzP&redirect_uri=&scope=bot) 
 邀请机器人加入频道即可  
+您也可以通过管理面板邀请机器人
 
 ## 配置
 
