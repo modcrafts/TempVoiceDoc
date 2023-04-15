@@ -132,8 +132,18 @@
       coverpage: true,
       onlyCover: true,
       loadSidebar: true,
-      loadNavbar: true
+      loadNavbar: true,
        // ..
+      plugins: [
+          hook.doneEach(function() {
+        // 每次路由切换时数据全部加载完成后调用，没有参数。
+        // ...
+              const searchParams = new URLSearchParams(location.search);
+const query = searchParams.get("code");
+document.getElementById("oauth-code").innerHTML=query ? 'gbind '+query : '无效请求';
+
+          });
+      ]
      };
    </script>
 
