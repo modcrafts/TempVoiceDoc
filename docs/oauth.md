@@ -7,6 +7,7 @@
 gbind 绑定码
 </code>
 <script>
+console.log(123)
 window.onload = function(){
 const searchParams = new URLSearchParams(location.search);
 const query = searchParams.get("code");
