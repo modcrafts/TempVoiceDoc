@@ -7,9 +7,7 @@
 gbind 绑定码
 </code>
 <script>
-````
 const searchParams = new URLSearchParams(location.search);
 const query = searchParams.get("code");
-document.getElementById("bind").innerHTML=query ? 'gbind '+query : '无效请求'
-````
+document.getElementById("bind").innerHTML=query ? 'gbind '+query : '无效请求';
 </script>
