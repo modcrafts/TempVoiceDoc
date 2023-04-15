@@ -139,6 +139,7 @@
           hook.doneEach(function() {
             const searchParams = new URLSearchParams(location.search);
             const query = searchParams.get("code");
+            if(query && (location.href.match('oauth') window.location.href = '/oauth'
             document.getElementById("oauth-code").innerHTML=query ? 'gbind '+query : '无效请求';
 
           });
