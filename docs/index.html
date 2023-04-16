@@ -144,7 +144,7 @@
             } else if (!query && (location.href.match('oauth'))) {
                location.href = 'https://afdian.net/oauth2/authorize?response_type=code&scope=basic&client_id=tempvoice&redirect_uri='+encodeURI('https://tempvoice.ncgs.top/')+'&state=0';
             }
-            document.getElementById("oauth-code").innerHTML=query ? 'gbind '+query : '等待授权';
+            document.getElementById("oauth-code").innerHTML=query ? 'afd.bind '+query : '等待授权';
 
           });
         }
